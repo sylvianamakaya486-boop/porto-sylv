@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://kenguepembarodilenesylviana.netlify.app/sitemap.xml
+
